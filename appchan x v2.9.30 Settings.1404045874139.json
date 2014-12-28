@@ -1,0 +1,593 @@
+{
+  "version": "2.9.30",
+  "date": 1404045874139,
+  "Conf": {
+    "JSON Navigation": true,
+    "Catalog Links": true,
+    "External Catalog": false,
+    "Desktop Notifications": false,
+    "404 Redirect": true,
+    "Keybinds": true,
+    "Time Formatting": true,
+    "Relative Post Dates": true,
+    "File Info Formatting": true,
+    "Thread Expansion": true,
+    "Comment Expansion": false,
+    "Index Navigation": false,
+    "Reply Navigation": false,
+    "Show Dice Roll": true,
+    "Color User IDs": false,
+    "Remove Spoilers": false,
+    "Reveal Spoilers": false,
+    "Show Support Message": true,
+    "Linkify": true,
+    "Embedding": true,
+    "Auto-embed": false,
+    "Link Title": true,
+    "Anonymize": false,
+    "Filter": true,
+    "Recursive Hiding": true,
+    "Post Hiding": false,
+    "Filtered Backlinks": true,
+    "Stubs": true,
+    "Image Expansion": true,
+    "Image Hover": true,
+    "Image Hover in Catalog": false,
+    "Gallery": true,
+    "PDF in Gallery": false,
+    "Sauce": true,
+    "Reveal Spoiler Thumbnails": false,
+    "Replace GIF": false,
+    "Replace JPG": false,
+    "Replace PNG": false,
+    "Replace WEBM": false,
+    "Image Prefetching": false,
+    "Fappe Tyme": false,
+    "Werk Tyme": false,
+    "Autoplay": true,
+    "Show Controls": true,
+    "Allow Sound": true,
+    "Loop in New Tab": true,
+    "Menu": true,
+    "Report Link": true,
+    "Post Hiding Link": true,
+    "Delete Link": true,
+    "Archive Link": true,
+    "Thread Updater": true,
+    "Unread Count": true,
+    "Hide Unread Count at (0)": false,
+    "Unread Favicon": true,
+    "Unread Line": true,
+    "Scroll to Last Read Post": true,
+    "Thread Excerpt": true,
+    "Thread Stats": true,
+    "Page Count in Stats": false,
+    "Updater and Stats in Header": true,
+    "Thread Watcher": true,
+    "Header Shortcut": true,
+    "Page Shortcut": false,
+    "Persistent QR": true,
+    "Auto Hide QR": true,
+    "Open Post in New Tab": true,
+    "Remember Spoiler": false,
+    "Remember QR Size": false,
+    "Cooldown": true,
+    "Posting Success Notifications": true,
+    "Captcha Warning Notifications": true,
+    "Dump List Before Comment": false,
+    "Auto-load captcha": false,
+    "Quote Backlinks": true,
+    "OP Backlinks": true,
+    "Quote Inlining": true,
+    "Quote Hash Navigation": false,
+    "Forward Hiding": true,
+    "Quote Previewing": true,
+    "Quote Highlighting": true,
+    "Resurrect Quotes": true,
+    "Quoted Title": false,
+    "Highlight Posts Quoting You": false,
+    "Highlight Own Posts": false,
+    "Quote Threading": false,
+    "Mark Quotes of You": true,
+    "Mark OP Quotes": true,
+    "Mark Cross-thread Quotes": true,
+    "Fit width": false,
+    "Fit height": false,
+    "Expand spoilers": true,
+    "Expand videos": false,
+    "Expand from here": false,
+    "Advance on contract": false,
+    "Hide Thumbnails": false,
+    "Fit Width": true,
+    "Fit Height": true,
+    "Single Column Mode": true,
+    "Sidebar": "normal",
+    "Sidebar Location": "right",
+    "Top Thread Padding": "0",
+    "Bottom Thread Padding": "0",
+    "Left Thread Padding": "0",
+    "Right Thread Padding": "0",
+    "Announcements": "slideout",
+    "Board Title": "at sidebar top",
+    "Custom Board Titles": false,
+    "Persistent Custom Board Titles": false,
+    "Board Subtitle": false,
+    "4chan Banner": "at sidebar top",
+    "Icon Orientation": "horizontal",
+    "Slideout Watcher": true,
+    "Hide Navlinks": false,
+    "Alternate Post Colors": false,
+    "Color Reply Headings": false,
+    "Color File Info": false,
+    "OP Background": false,
+    "Backlinks Position": "default",
+    "Force Reply Break": false,
+    "Fit Width Replies": true,
+    "Indent Replies": false,
+    "Hide Delete UI": false,
+    "Post Spacing": "2",
+    "Vertical Post Padding": "5",
+    "Horizontal Post Padding": "20",
+    "Hide Horizontal Rules": false,
+    "Backlink Icons": false,
+    "Compact File Text": false,
+    "4chan SS Navigation": false,
+    "4chan SS Sidebar": false,
+    "4chan Banner Reflection": false,
+    "Faded 4chan Banner": true,
+    "Hide Ads": true,
+    "Shrink Ads": false,
+    "Fade Ads": true,
+    "Bolds": true,
+    "Italics": false,
+    "Sidebar Glow": false,
+    "Circle Checkboxes": false,
+    "Font": "sans-serif",
+    "Font Size": "13",
+    "Icons": "oneechan",
+    "Invisible Icons": false,
+    "Quote Shadows": true,
+    "Rounded Edges": false,
+    "Underline Links": false,
+    "NSFW/SFW Themes": false,
+    "Mascots": true,
+    "Click to Toggle": false,
+    "Mascot Location": "sidebar",
+    "Mascot Position": "default",
+    "Mascots Overlap Posts": true,
+    "NSFW/SFW Mascots": false,
+    "Grayscale Mascots": false,
+    "Mascot Opacity": "1.00",
+    "Hide Mascots on Catalog": false,
+    "Silhouettize Mascots": false,
+    "Silhouette Contrast": "0",
+    "Navigation Alignment": "left",
+    "Slideout Navigation": "list",
+    "Pagination": "hide",
+    "Pagination Alignment": "left",
+    "Hide Navigation Decorations": false,
+    "Compact Post Form Inputs": true,
+    "Show Post Form Header": false,
+    "Post Form Style": "tabbed slideout",
+    "Post Form Slideout Transitions": true,
+    "Transparent Post Form": false,
+    "Post Form Decorations": false,
+    "Textarea Resize": "vertical",
+    "Tripcode Hider": true,
+    "Images Overlap Post Form": true,
+    "Captcha Filter": true,
+    "Emoji": "enabled",
+    "Emoji Position": "before",
+    "Emoji Spacing": "5",
+    "Current Board": false,
+    "Auto Watch": true,
+    "Auto Watch Reply": false,
+    "Auto Prune": false,
+    "name": "# Filter any namefags:\n#/^(?!Anonymous$)/\n/^final$/",
+    "uniqueID": "# Filter a specific ID:\n#/Txhvk1Tl/",
+    "tripcode": "# Filter any tripfag\n#/^!/",
+    "capcode": "# Set a custom class for mods:\n#/Mod$/;highlight:mod;op:yes\n# Set a custom class for moot:\n#/Admin$/;highlight:moot;op:yes",
+    "email": "",
+    "subject": "# Filter Generals on /v/:\n#/general/i;boards:v;op:only",
+    "comment": "# Filter Stallman copypasta on /g/:\n#/what you're refer+ing to as linux/i;boards:g",
+    "flag": "",
+    "filename": "",
+    "dimensions": "# Highlight potential wallpapers:\n#/1920x1080/;op:yes;highlight;top:no;boards:w,wg",
+    "filesize": "",
+    "MD5": "",
+    "sauces": "https://www.google.com/searchbyimage?image_url=%TURL\nhttp://iqdb.org/?url=%TURL\n#//tineye.com/search?url=%TURL\n#http://saucenao.com/search.php?url=%TURL\n#http://3d.iqdb.org/?url=%TURL\n#http://regex.info/exif.cgi?imgurl=%URL\n# uploaders:\n#http://imgur.com/upload?url=%URL;text:Upload to imgur\n#http://ompldr.org/upload?url1=%URL;text:Upload to ompldr\n# \"View Same\" in archives:\n#//archive.foolz.us/_/search/image/%MD5/;text:View same on foolz\n#//archive.foolz.us/%board/search/image/%MD5/;text:View same on foolz /%board/\n#//archive.installgentoo.net/%board/image/%MD5;text:View same on installgentoo /%board/",
+    "fappe": true,
+    "werk": false,
+    "Custom CSS": false,
+    "Index Mode": "catalog",
+    "Previous Index Mode": "paged",
+    "Index Sort": "bump",
+    "Index Size": "small",
+    "Threads per Page": 0,
+    "Open threads in a new tab": false,
+    "Show Replies": true,
+    "Refreshed Navigation": false,
+    "Fixed Header": true,
+    "Header auto-hide": false,
+    "Header auto-hide on scroll": false,
+    "Bottom Header": false,
+    "Header catalog links": true,
+    "Bottom Board List": true,
+    "Custom Board Navigation": true,
+    "boardnav": "[ toggle-all ]\n[current-title]\n[external-text:\"FAQ\",\"https://github.com/ccd0/4chan-x/wiki/Frequently-Asked-Questions\"]",
+    "QR.personas": "#email:\"sage\";boards:jp;always",
+    "time": "%m/%d/%y(%a)%H:%M:%S",
+    "backlink": ">>%id",
+    "fileInfo": "%L (%p%s, %r)",
+    "favicon": "ferongr",
+    "usercss": "/* Tripcode Italics: */\n/*\nspan.postertrip {\nfont-style: italic;\n}\n*/\n\n/* Add a rounded border to thumbnails (but not expanded images): */\n/*\n.fileThumb > img:first-child {\nborder: solid 2px rgba(0,0,100,0.5);\nborder-radius: 10px;\n}\n*/\n\n/* Make highlighted posts look inset on the page: */\n/*\ndiv.post:target,\ndiv.post.highlight {\nbox-shadow: inset 2px 2px 2px rgba(0,0,0,0.2);\n}\n*/",
+    "Toggle board list": "Ctrl+b",
+    "Toggle header": "Shift+h",
+    "Open empty QR": "i",
+    "Open QR": "Shift+i",
+    "Open settings": "Alt+o",
+    "Close": "Esc",
+    "Spoiler tags": "Ctrl+s",
+    "Code tags": "Alt+c",
+    "Eqn tags": "Alt+e",
+    "Math tags": "Alt+m",
+    "Toggle sage": "Alt+s",
+    "Submit QR": "Ctrl+Enter",
+    "Post Without Name": "Alt+n",
+    "Watch": "w",
+    "Update": "r",
+    "Expand image": "Shift+e",
+    "Expand images": "e",
+    "Open Gallery": "g",
+    "fappeTyme": "f",
+    "werkTyme": "Shift+w",
+    "Front page": "0",
+    "Open front page": "Shift+0",
+    "Next page": "Shift+Right",
+    "Previous page": "Shift+Left",
+    "Search form": "Ctrl+Alt+s",
+    "Paged mode": "Alt+1",
+    "All pages mode": "Alt+2",
+    "Catalog mode": "Alt+3",
+    "Cycle sort type": "Alt+x",
+    "Next thread": "Shift+Down",
+    "Previous thread": "Shift+Up",
+    "Expand thread": "Ctrl+e",
+    "Open thread": "o",
+    "Open thread tab": "Shift+o",
+    "Next reply": "j",
+    "Previous reply": "k",
+    "Deselect reply": "Shift+d",
+    "Hide": "x",
+    "Previous Post Quoting You": "Alt+Up",
+    "Next Post Quoting You": "Alt+Down",
+    "Beep": false,
+    "Auto Scroll": false,
+    "Bottom Scroll": false,
+    "Scroll BG": false,
+    "Auto Update": true,
+    "Optional Increase": false,
+    "Interval": 30,
+    "embedWidth": 640,
+    "embedHeight": 390,
+    "theme": "AppChan",
+    "theme_sfw": "Yotsuba B",
+    "theme_nsfw": "Yotsuba",
+    "mascot": "George_Costanza",
+    "pinnedThreads": {
+      "boards": {},
+      "lastChecked": 1395873932549
+    },
+    "hiddenPosts": {
+      "boards": {},
+      "lastChecked": 1395873932556
+    },
+    "lastReadPosts": {
+      "boards": {
+        "fit": {
+          "17018018": 17020302,
+          "27322456": 27322726,
+          "27313946": 27316511,
+          "27325716": 27327082
+        },
+        "w": {
+          "1625758": 1632001,
+          "1616198": 1637685
+        },
+        "s": {
+          "15109839": 15109909
+        },
+        "cgl": {
+          "7635105": 7635911,
+          "7622463": 7622596,
+          "7635068": 7636040,
+          "7632984": 7636032
+        },
+        "g": {
+          "42712669": 42712823,
+          "42703307": 42703494,
+          "42703796": 42712485,
+          "42719085": 42722578
+        },
+        "wg": {
+          "5836033": 5841346,
+          "5840272": 5840856,
+          "5839187": 5841032,
+          "5831279": 5840985
+        },
+        "b": {
+          "553794821": 553796847,
+          "553799478": 553799920,
+          "553793878": 553796756,
+          "553797231": 553798972,
+          "553794508": 553800264
+        }
+      },
+      "lastChecked": 1404043238103
+    },
+    "yourPosts": {
+      "boards": {},
+      "lastChecked": 1403604269770
+    },
+    "watchedThreads": {
+      "boards": {
+        "g": {
+          "38830584": {
+            "excerpt": "/g/ - Anyone here part of private trackers? which ones? // do you like them?",
+            "isDead": true
+          }
+        },
+        "v": {
+          "206031150": {
+            "excerpt": "/v/ - mfw weapon thread",
+            "isDead": true
+          }
+        }
+      },
+      "lastChecked": 1404042676124
+    },
+    "Enabled Mascots": [
+      "George_Costanza"
+    ],
+    "Enabled Mascots sfw": [],
+    "Enabled Mascots nsfw": [],
+    "Deleted Mascots": [],
+    "Hidden Categories": [
+      "Custom",
+      "Questionable"
+    ],
+    "userThemes": {},
+    "userMascots": {},
+    "selectedArchives": {},
+    "CachedTitles": {
+      "65090552": [
+        "Eva Andressa-Nude Fitness Shoot",
+        1377878557808
+      ],
+      "0igehSUCakY": [
+        "Strongest Girl in the World",
+        1376357028573
+      ],
+      "2HTKwCj4L_c": [
+        "PS4 Controller R1 Button Defective after only 10 hours of play!",
+        1384469389533
+      ],
+      "2Y6DNQdlxNo": [
+        "Katawa Shoujo OST - Innocence",
+        1390153515087
+      ],
+      "4LRgIHtX3Rg": [
+        "illuma rags",
+        1390081042823
+      ],
+      "4_SrKx3eQoM": [
+        "How to vector anime with Illustrator CS3 (1 of 5)",
+        1376729739101
+      ],
+      "69V__a49xtw": [
+        "Silicon Valley Season 1: Trailer (HBO)",
+        1393434089142
+      ],
+      "8CDPkm9a3FY": [
+        "Coach Filikidis - 61kg - Double Kettlebell Press",
+        1386431624523
+      ],
+      "9MHTu_-VP0M": [
+        "Perturbator - Ghost Dancers Slay Together",
+        1376167685272
+      ],
+      "AJ5GiRZv9TU": [
+        "RuneScape Soundtrack: Autumn Voyage",
+        1383491946614
+      ],
+      "CSEw3RT0dFE": [
+        "TVアニメ『境界の彼方』PV第1弾",
+        1376122699775
+      ],
+      "Ew0hEX1fVjw": [
+        "Summer",
+        1377770295068
+      ],
+      "G1JGAfTbIQ0": [
+        "Madoka Magica Part III: The Rebellion Story - Cake Song",
+        1382828783456
+      ],
+      "HDOykb7WJz0": [
+        "Burning Passion",
+        1390153515083
+      ],
+      "HNWdpZ63Vdg": [
+        "CrossFit - Fashion to Fitness",
+        1378131397701
+      ],
+      "HsmpZ9ndmi8": [
+        "The Edgiest Man This Side of the Galaxy",
+        1390081042910
+      ],
+      "I9SL_lrKmKs": [
+        "Black & White Heads On Nose Part 3",
+        1376171400886
+      ],
+      "IZo_sdPvys4": [
+        "Amazing Fat Girls 37",
+        1383772384508
+      ],
+      "MmgV6vN0Evs": [
+        "Katawa Shoujo OST - Painful History (Hanako's Theme)",
+        1390153515095
+      ],
+      "PUhcUcoo6fs": [
+        "form check",
+        1385077943219
+      ],
+      "PZCB6Vurc7s": [
+        "Swoleamentary",
+        1390081042916
+      ],
+      "Pby_eXF3-Zo": [
+        "Oculus Rift being used to its full potential",
+        1384203028125
+      ],
+      "QsVyBHJrNQw": [
+        "Weezer - Pink Triangle",
+        1390153515066
+      ],
+      "R7n21YDf5U0": [
+        "Flannel.",
+        1390081042635
+      ],
+      "T6hdhJY-ids": [
+        "Skate demo Phil and dan 1",
+        1390081042824
+      ],
+      "TUzlmWWdjEQ": [
+        "UK's Scariest Debt Collector (Full Length)",
+        1387146985530
+      ],
+      "ULqAIbjCsXE": [
+        "Watch My Job Interview!",
+        1390265347923
+      ],
+      "VgsK9fuO2a8": [
+        "\"Return of the Jedi\" Slave Leia Scene",
+        1377856488831
+      ],
+      "VjGSMUep6_4": [
+        "Install Gentoo",
+        1377673325427
+      ],
+      "W6gyVZD1Di0": [
+        "Rant: 4Chan sucks",
+        1390081042630
+      ],
+      "Xfc7qlC-6FY": [
+        "IMG 1769",
+        1390081042971
+      ],
+      "_B05qsayGgU": [
+        "Josip On Deck - 4Chan",
+        1377112761206
+      ],
+      "angel93": [
+        "Official Angel Music",
+        1390081042836
+      ],
+      "bCLoNOYcVQU": [
+        "Komm, susser Tod",
+        1386242619888
+      ],
+      "cEE9IKTDT1A": [
+        "Bakemonogatari OP Song [Lyrics]",
+        1376126414064
+      ],
+      "dQw4w9WgXcQ": [
+        "Rick Astley - Never Gonna Give You Up",
+        1390181222227
+      ],
+      "didzxUkrtS0": [
+        "Komm, susser Tod [With Lyrics] - The End of Evangelion OST -11- (HQ)",
+        1376167749937
+      ],
+      "hSkq24-SWzo": [
+        "BATTLE TYPE - Official Trailer",
+        1376167591964
+      ],
+      "hzmgyFQNvvU": [
+        "Japanese shouted \" White pig Go home!\"",
+        1376126439407
+      ],
+      "jes-s-fernando-s-nchez-vega/evolution": [
+        "Evolution by Atlas Sounds",
+        1387292811874
+      ],
+      "kafW9qSQNp4": [
+        "Harlem Shake Anonymus",
+        1385400128648
+      ],
+      "l_v676pj0QY": [
+        "Marc-Édouard Nabe - Apostrophes 85 1/2",
+        1390430958619
+      ],
+      "mfMrVKnGzwg": [
+        "Classic 90's - The Kids Guide to the Internet",
+        1390081042649
+      ],
+      "p0pvpWhTeeo": [
+        "Pickled herring sliding down a cut straw attached to a half potato",
+        1376171394078
+      ],
+      "pGqUNc1aRZ4": [
+        "ClariS - Colorful",
+        1382828783461
+      ],
+      "pa55LUygxFI": [
+        "Junge Mütter sehr schwer natürlichen Geburt zu Hause",
+        1384650603965
+      ],
+      "qZC7HbCFJgw": [
+        "Nichijou Songs - Kouchou no Cho Cho Kouchou",
+        1390082014783
+      ],
+      "ru7YASyMKwE": [
+        "CBS 5 Computer Repair Investigations",
+        1388882432809
+      ],
+      "ruairi-doherty/1-2-3-4": [
+        "1 2 3 4 by Dortski",
+        1390065407200
+      ],
+      "s0CuyZBaG90": [
+        "ルイズと一緒に寝る動画( sleeping with Louise )",
+        1376795748693
+      ],
+      "sT0eVUpm-dY": [
+        "When I'm Crippled",
+        1390153515093
+      ],
+      "t0XIxn55d-c": [
+        "Nihon NY - Episode 23 - Dai Sato at NY Comic Con Part 2",
+        1390082014910
+      ],
+      "tvGlZvFPz-E": [
+        "Super Secret Video Well Done) Trashing a sex offenders hote",
+        1377139092702
+      ],
+      "uOk0vOup4yA": [
+        "Barton: OCare Website Hidden Source Code Says Users \"Have No Reasonable Expectation of Privacy\"",
+        1385935326553
+      ],
+      "uQITWbAaDx0": [
+        "Guillaume Nery base jumping at Dean's Blue Hole, filmed on breath hold by Julie Gautier",
+        1388779259391
+      ],
+      "uVxtES1I4Ro": [
+        "Wagner Bortolato Training (4X Campeão Mundial de Luta de Braço)",
+        1388283238757
+      ],
+      "xgkRhYgVA5s": [
+        "Reactions [through Glass]",
+        1377960299444
+      ]
+    }
+  }
+}

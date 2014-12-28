@@ -1,0 +1,38 @@
+#URxvt*transparent: true
+#URxvt*shading: 40
+URxvt*saveLines: 12000
+URxvt*font: xft:Tewi:pixelsize=11
+URxvt*boldFont: xft:Tewi-bold
+URxvt*scrollBar: false
+URxvt*scrollstyle: rxvt
+
+
+urxvt*background:           #000000
+urxvt*foreground:           #FFFFFF
+urxvt*cursorColor:          #FFFFFF
+urxvt*colorBD:              #CCCCFF
+
+!colors
+urxvt*color0:               #000000
+urxvt*color8:               #1C1C1C
+
+urxvt*color1:               #9E0E0D
+urxvt*color9:               #9E0E0D
+
+urxvt*color2:               #17AB00
+urxvt*color10:              #36EA1A
+
+urxvt*color3:               #FFF934
+urxvt*color11:              #EAE200
+
+urxvt*color4:               #00C0D2
+urxvt*color12:              #00C0D2
+
+urxvt*color5:               #AB00BA
+urxvt*color13:              #EB00FF
+
+urxvt*color6:               #0090BC
+urxvt*color14:              #00C4FF
+
+urxvt*color7:               #FFFFFF
+urxvt*color15:              #FFFFFF
